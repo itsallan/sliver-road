@@ -4,10 +4,7 @@
     "apkUrl": "",
     "websiteUrl": "https://info.kawogomovies.site/",
     "mandatory": true,
-    "releaseNotes": "
-    Added: Trailers 
-    Fixed: ClearCopy Section
-    ",
+    "releaseNotes": "Added: Trailers Fixed: ClearCopy Section",
     "versionSupportList": ["0.9.4","0.9.6","0.9.7"],
     "maintenance": false,
   },

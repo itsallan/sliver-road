@@ -1,9 +1,9 @@
 {
-    "version": "0.9.8.Onion",
+    "version": "0.9.9.Onion",
     "apkUrl": "",
     "websiteUrl": "https://info.kawogomovies.site/",
-    "mandatory": false,
-    "releaseNotes": "Added: Trailers, Downloads Section, Offline Mode, Auto-Updates Fixed: ClearCopy Section, Player Buffering, Search Results",
+    "mandatory": true,
+    "releaseNotes": "Added: Movies Trailers, Auto-Updates Fixed: Download Section",
     "versionSupportList": ["0.9.4","0.9.6","0.9.7"],
     "maintenance": false
 }

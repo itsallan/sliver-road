@@ -2,7 +2,7 @@
     "version": "0.9.8.Onion",
     "apkUrl": "",
     "websiteUrl": "https://info.kawogomovies.site/",
-    "mandatory": true,
+    "mandatory": false,
     "releaseNotes": "Added: Trailers Fixed: ClearCopy Section",
     "versionSupportList": ["0.9.4","0.9.6","0.9.7"],
     "maintenance": false

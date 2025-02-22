@@ -1,17 +1,18 @@
 {
-    "currentVersion": "0.9.9.Onion",
+    "currentVersion": "1.0.0.Onion",
     "globalMaintenance": false,
     "apkUrl": "",
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
         {
-            "version": "0.9.9.Onion",
+            "version": "1.0.0.Onion",
             "releaseDate": "2024-02-22",
             "mandatory": true,
             "releaseNotes": [
                 "Added: Movies Trailers",
                 "Added: Auto-Updates",
-                "Fixed: Download Section"
+                "Added: Episode List In Player",
+                "Fixed: Network Error Issue",
             ],
             "state": "LATEST",
             "supported": true,

@@ -1,7 +1,7 @@
 {
     "currentVersion": "1.0.0.Onion",
     "globalMaintenance": false,
-    "apkUrl": "",
+    "apkUrl": "https://github.com/itsallan/sliver-road/raw/refs/heads/main/files/app-release.apk",
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
         {

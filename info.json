@@ -22,7 +22,7 @@
         {
             "version": "0.9.9",
             "releaseDate": "2024-01-15",
-            "mandatory": false,
+            "mandatory": true,
             "releaseNotes": [
                 "Added: Download Manager",
                 "Fixed: UI Bugs"

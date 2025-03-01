@@ -16,7 +16,7 @@
             ],
             "state": "LATEST",
             "supported": true,
-            "maintenance": false,
+            "maintenance": true,
             "maintenanceMessage": null
         },
         {

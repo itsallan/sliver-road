@@ -1,0 +1,36 @@
+{
+    "currentVersion": "1.0.0.Onion",
+    "globalMaintenance": false,
+    "apkUrl": "https://github.com/itsallan/sliver-road/raw/refs/heads/main/files/app-release.apk",
+    "websiteUrl": "https://kawogomovies.com/",
+    "versions": [
+        {
+            "version": "1.0.0.Onion",
+            "releaseDate": "2025-02-28",
+            "mandatory": true,
+            "releaseNotes": [
+                "Added: Movies Trailers",
+                "Added: Auto-Updates",
+                "Added: Episode List In Player",
+                "Fixed: Network Error Issue"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": true,
+            "maintenanceMessage": null
+        },
+        {
+            "version": "0.9.9",
+            "releaseDate": "2024-01-15",
+            "mandatory": false,
+            "releaseNotes": [
+                "Added: Download Manager",
+                "Fixed: UI Bugs"
+            ],
+            "state": "STABLE",
+            "supported": true,
+            "maintenance": true,
+            "maintenanceMessage": "Server upgrades in progress. Expected downtime: 2 hours."
+        }
+    ]
+}

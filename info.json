@@ -5,14 +5,11 @@
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
         {
-            "version": "1.0.0.Onion",
+            "version": "1.0.2.Onion",
             "releaseDate": "2025-02-28",
-            "mandatory": true,
+            "mandatory": false,
             "releaseNotes": [
-                "Added: Movies Trailers",
-                "Added: Auto-Updates",
-                "Added: Episode List In Player",
-                "Fixed: Network Error Issue"
+                "Fixed: Download"
             ],
             "state": "LATEST",
             "supported": true,

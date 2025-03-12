@@ -1,9 +1,0 @@
-{
-    "version": "0.9.9.Onion",
-    "apkUrl": "",
-    "websiteUrl": "https://kawogomovies.com/",
-    "mandatory": true,
-    "releaseNotes": "Added: Movies Trailers, Auto-Updates Fixed: Download Section",
-    "versionSupportList": ["0.9.4","0.9.6","0.9.7"],
-    "maintenance": false
-}

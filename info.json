@@ -5,13 +5,32 @@
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
         {
+            "version": "1.0.3.Onion",
+            "releaseDate": "2025-04-03",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Download",
+                "Fixed: Download Crashing & Double Download for Download Manager ",
+                "Added: News Screen",
+                "Added: New Ui",
+                "Added: Sign Up and Logout",
+                "Added: Continue Watching Section",
+                "Added: Filter by Country & Genres For Both Movies and TvShows",
+                "Removed: Clear Copy"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
+        {
             "version": "1.0.2.Onion",
             "releaseDate": "2025-02-28",
             "mandatory": true,
             "releaseNotes": [
                 "Fixed: Download"
             ],
-            "state": "LATEST",
+            "state": "STABLE",
             "supported": true,
             "maintenance": false,
             "maintenanceMessage": null

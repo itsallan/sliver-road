@@ -5,6 +5,18 @@
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
         {
+            "version": "1.0.4.Onion",
+            "releaseDate": "2025-04-05",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Download"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
+        {
             "version": "1.0.3.Onion",
             "releaseDate": "2025-04-03",
             "mandatory": true,
@@ -18,7 +30,7 @@
                 "Added: Filter by Country & Genres For Both Movies and TvShows",
                 "Removed: Clear Copy"
             ],
-            "state": "LATEST",
+            "state": "STABLE",
             "supported": true,
             "maintenance": false,
             "maintenanceMessage": null

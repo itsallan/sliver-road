@@ -1,0 +1,64 @@
+{
+    "currentVersion": "1.0.0.Onion",
+    "globalMaintenance": false,
+    "apkUrl": "https://github.com/itsallan/sliver-road/raw/refs/heads/main/files/app-release.apk",
+    "websiteUrl": "https://kawogomovies.com/",
+    "versions": [
+        {
+            "version": "1.0.4.Avocado",
+            "releaseDate": "2025-04-16",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Download"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
+        {
+            "version": "1.0.3.Onion",
+            "releaseDate": "2025-04-03",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Download",
+                "Fixed: Download Crashing & Double Download for Download Manager ",
+                "Added: News Screen",
+                "Added: New Ui",
+                "Added: Sign Up and Logout",
+                "Added: Continue Watching Section",
+                "Added: Filter by Country & Genres For Both Movies and TvShows",
+                "Removed: Clear Copy"
+            ],
+            "state": "STABLE",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
+        {
+            "version": "1.0.2.Onion",
+            "releaseDate": "2025-02-28",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Download"
+            ],
+            "state": "STABLE",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
+        {
+            "version": "0.9.9",
+            "releaseDate": "2024-01-15",
+            "mandatory": true,
+            "releaseNotes": [
+                "Added: Download Manager",
+                "Fixed: UI Bugs"
+            ],
+            "state": "STABLE",
+            "supported": true,
+            "maintenance": true,
+            "maintenanceMessage": "Server upgrades in progress. Expected downtime: 2 hours."
+        }
+    ]
+}

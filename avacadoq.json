@@ -4,9 +4,21 @@
     "apkUrl": "https://github.com/itsallan/sliver-road/raw/refs/heads/main/files/app-release.apk",
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
-        {
+                {
             "version": "1.0.5.Avocado",
             "releaseDate": "2025-05-06",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Download"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
+        {
+            "version": "1.0.4.Avocado",
+            "releaseDate": "2025-04-16",
             "mandatory": true,
             "releaseNotes": [
                 "Fixed: Download"

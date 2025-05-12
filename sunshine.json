@@ -5,7 +5,7 @@
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
                 {
-            "version": "1.0.6.Avocado",
+            "version": "1.0.5.Onion",
             "releaseDate": "2025-05-09",
             "mandatory": true,
             "releaseNotes": [
@@ -18,7 +18,7 @@
             "maintenanceMessage": null
         },
         {
-            "version": "1.0.4.Avocado",
+            "version": "1.0.4.Onion",
             "releaseDate": "2025-04-16",
             "mandatory": true,
             "releaseNotes": [

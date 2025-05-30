@@ -5,6 +5,20 @@
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
                 {
+            "version": "1.0.6.Avocado",
+            "releaseDate": "2025-05-30",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Download Final",
+                "Added: Support For Android 16",
+                "Added: New Display Cards UI"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
+                {
             "version": "1.0.5.Avocado",
             "releaseDate": "2025-05-06",
             "mandatory": true,

@@ -4,6 +4,20 @@
     "apkUrl": "https://github.com/itsallan/sliver-road/raw/refs/heads/main/files/app-release.apk",
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
+                {
+            "version": "1.0.6.Avocado",
+            "releaseDate": "2025-05-30",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Download Final",
+                "Added: Support For Android 16",
+                "Added: New Display Cards UI"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
         {
             "version": "1.0.4.Onion",
             "releaseDate": "2025-04-05",

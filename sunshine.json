@@ -4,6 +4,20 @@
     "apkUrl": "https://github.com/itsallan/sliver-road/raw/refs/heads/main/files/app-release.apk",
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
+            {
+            "version": "1.0.7.Onion",
+            "releaseDate": "2025-05-30",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Download Speed",
+                "Fixed: Favorite Scroll issue",
+                "Added: Trailers & Cast"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
         {
             "version": "1.0.6.Onion",
             "releaseDate": "2025-05-30",
@@ -15,8 +29,8 @@
             ],
             "state": "LATEST",
             "supported": true,
-            "maintenance": false,
-            "maintenanceMessage": null
+            "maintenance": true,
+            "maintenanceMessage": "This version will not play some movies"
         },
         {
             "version": "1.0.5.Onion",

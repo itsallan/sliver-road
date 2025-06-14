@@ -4,14 +4,14 @@
     "apkUrl": "https://github.com/itsallan/sliver-road/raw/refs/heads/main/files/app-release.apk",
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
-                {
-            "version": "1.0.6.Avocado",
+            {
+            "version": "1.0.7.Onion",
             "releaseDate": "2025-05-30",
             "mandatory": true,
             "releaseNotes": [
-                "Fixed: Download Final",
-                "Added: Support For Android 16",
-                "Added: New Display Cards UI"
+                "Fixed: Download Speed",
+                "Fixed: Favorite Scroll issue",
+                "Added: Trailers & Cast"
             ],
             "state": "LATEST",
             "supported": true,

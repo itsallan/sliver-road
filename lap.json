@@ -4,6 +4,21 @@
     "apkUrl": "https://github.com/itsallan/sliver-road/raw/refs/heads/main/files/app-release.apk",
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
+                    {
+            "version": "1.0.8.Onion",
+            "releaseDate": "2025-06-20",
+            "mandatory": false,
+            "releaseNotes": [
+                "Fixed: Trailers",
+                "Fixed: Crushing for all tvshows with 100+ Eps",
+                "Fixed: Notifications, even if you aren't signed in",
+                "Added: Auto install inapp updates"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
             {
             "version": "1.0.7.Onion",
             "releaseDate": "2025-05-30",

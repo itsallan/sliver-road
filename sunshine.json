@@ -7,7 +7,7 @@
             {
             "version": "1.1.0.Onion",
             "releaseDate": "2025-07-14",
-            "mandatory": true,
+            "mandatory": false,
             "releaseNotes": [
                 "Fixed: Download For Android 10 and Bellow",
                 "Fixed: Searching with whitespace"

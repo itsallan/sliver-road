@@ -5,6 +5,19 @@
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
         {
+            "version": "1.1.1.Onion",
+            "releaseDate": "2025-07-24",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Network Error",
+                "Added: Download Full Season"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
+        {
             "version": "1.0.9.Onion",
             "releaseDate": "2025-07-09",
             "mandatory": false,
@@ -17,7 +30,7 @@
             "maintenance": false,
             "maintenanceMessage": null
         },
-            {
+        {
             "version": "1.0.7.Onion",
             "releaseDate": "2025-05-30",
             "mandatory": true,

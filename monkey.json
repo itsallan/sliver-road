@@ -4,6 +4,19 @@
     "apkUrl": "https://github.com/itsallan/sliver-road/raw/refs/heads/main/files/app-release.apk",
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
+                {
+            "version": "1.1.5.Onion",
+            "releaseDate": "2025-11-27",
+            "mandatory": false,
+            "releaseNotes": [
+                "Fixed: Free Download",
+                "Fixed: Wrong Email loop"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
         {
             "version": "1.1.4.Onion",
             "releaseDate": "2025-11-25",

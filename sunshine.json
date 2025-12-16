@@ -5,6 +5,21 @@
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
         {
+            "version": "1.1.8.Onion",
+            "releaseDate": "2025-12-17",
+            "mandatory": false,
+            "releaseNotes": [
+                "Fixed: App crash when scrolling on TV devices",
+                "Fixed: TV UI components for better stability",
+                "Added: Offline Playback for Downloads",
+                "Added: Offline Mode Home Navigation"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
+        {
             "version": "1.1.7.Onion",
             "releaseDate": "2025-12-01",
             "mandatory": true,

@@ -9,7 +9,7 @@
             "releaseDate": "2026-01-09",
             "mandatory": false,
             "releaseNotes": [
-                "Fixed: Search scrolling on android tv",
+                "Fixed: Search scroll on android tv",
                 "Fixed: Grid Crashing"
             ],
             "state": "LATEST",

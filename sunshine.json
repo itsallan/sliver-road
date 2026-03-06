@@ -13,7 +13,7 @@
             ],
             "state": "LATEST",
             "supported": true,
-            "maintenance": true,
+            "maintenance": false,
             "maintenanceMessage": "Older versions will not work"
         },
         {

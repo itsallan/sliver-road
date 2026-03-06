@@ -14,7 +14,7 @@
             "state": "LATEST",
             "supported": true,
             "maintenance": true,
-            "maintenanceMessage": null
+            "maintenanceMessage": "Older versions will not work"
         },
         {
             "version": "1.2.0.Onion",

@@ -5,6 +5,20 @@
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
         {
+            "version": "1.2.2.Onion",
+            "releaseDate": "2026-03-08",
+            "mandatory": false,
+            "releaseNotes": [
+                "Fixed: Subscription",
+                "Added: New Font",
+                "Added: TvShows Grid"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
+        {
             "version": "1.2.0.Onion",
             "releaseDate": "2026-01-21",
             "mandatory": false,

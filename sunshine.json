@@ -7,7 +7,7 @@
         {
             "version": "1.2.4.Onion",
             "releaseDate": "2026-03-09",
-            "mandatory": false,
+            "mandatory": true,
             "releaseNotes": [
                 "Fixed: Download for Subscriber",
                 "Added: More shapes ):"

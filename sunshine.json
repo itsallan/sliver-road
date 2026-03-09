@@ -6,7 +6,7 @@
     "versions": [
         {
             "version": "1.2.3.Onion",
-            "releaseDate": "2026-03-08",
+            "releaseDate": "2026-03-09",
             "mandatory": false,
             "releaseNotes": [
                 "Fixed: Streaming Bug"

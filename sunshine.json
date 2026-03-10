@@ -5,6 +5,18 @@
     "websiteUrl": "https://kawogomovies.com/",
     "versions": [
         {
+            "version": "1.2.5.Onion",
+            "releaseDate": "2026-03-10",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Download for Subscriber"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
+        {
             "version": "1.2.4.Onion",
             "releaseDate": "2026-03-09",
             "mandatory": true,

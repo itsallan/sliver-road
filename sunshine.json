@@ -2,7 +2,22 @@
     "currentVersion": "1.0.0.Onion",
     "globalMaintenance": false,
     "apkUrl": "https://github.com/itsallan/sliver-road/raw/refs/heads/main/files/app-release.apk",
+    "tvApkUrl": "https://github.com/itsallan/sliver-road/raw/refs/heads/main/files/tv-release.apk",
     "websiteUrl": "https://kawogomovies.com/",
+    "tvVersions": [
+        {
+            "version": "1.0.0.Onion",
+            "releaseDate": "2026-04-23",
+            "mandatory": false,
+            "releaseNotes": [
+                "Added: Proper support for Remote"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        }
+    ],
     "versions": [
         {
             "version": "1.2.8.Onion",

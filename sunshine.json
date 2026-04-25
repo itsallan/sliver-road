@@ -36,7 +36,8 @@
             "releaseDate": "2026-04-25",
             "mandatory": false,
             "releaseNotes": [
-                "Added: Unique Playlists"
+                "Added: Unique Playlists",
+                "Added: Android Tv Version"
             ],
             "state": "LATEST",
             "supported": true,

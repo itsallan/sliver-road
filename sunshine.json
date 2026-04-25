@@ -1,10 +1,22 @@
 {
-    "currentVersion": "1.0.0.Onion",
+    "currentVersion": "1.0.1.Onion",
     "globalMaintenance": false,
     "apkUrl": "https://github.com/itsallan/sliver-road/raw/refs/heads/main/files/app-release.apk",
     "tvApkUrl": "https://github.com/itsallan/sliver-road/raw/refs/heads/main/files/tv-release.apk",
     "websiteUrl": "https://kawogomovies.com/",
     "tvVersions": [
+        {
+            "version": "1.0.1.Onion",
+            "releaseDate": "2026-04-25",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Watch Now button Crush"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
         {
             "version": "1.0.0.Onion",
             "releaseDate": "2026-04-23",
@@ -19,6 +31,18 @@
         }
     ],
     "versions": [
+        {
+            "version": "1.2.9.Onion",
+            "releaseDate": "2026-04-25",
+            "mandatory": false,
+            "releaseNotes": [
+                "Added: Unique Playlists"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
         {
             "version": "1.2.8.Onion",
             "releaseDate": "2026-04-05",

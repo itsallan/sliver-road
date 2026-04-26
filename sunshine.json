@@ -6,6 +6,18 @@
     "websiteUrl": "https://kawogomovies.com/",
     "tvVersions": [
         {
+            "version": "1.0.3.Onion",
+            "releaseDate": "2026-04-26",
+            "mandatory": true,
+            "releaseNotes": [
+                "Added: Crush screen and display errors"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
+        {
             "version": "1.0.2.Onion",
             "releaseDate": "2026-04-26",
             "mandatory": true,

@@ -6,18 +6,6 @@
     "websiteUrl": "https://kawogomovies.com/",
     "tvVersions": [
         {
-            "version": "1.0.5.Onion",
-            "releaseDate": "2026-05-01",
-            "mandatory": true,
-            "releaseNotes": [
-                "Fixed: inAppUpdate crush"
-            ],
-            "state": "LATEST",
-            "supported": true,
-            "maintenance": false,
-            "maintenanceMessage": "Lower versions will stop working"
-        },
-        {
             "version": "1.0.4.Onion",
             "releaseDate": "2026-05-01",
             "mandatory": true,

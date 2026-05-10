@@ -6,6 +6,20 @@
     "websiteUrl": "https://kawogomovies.com/",
     "tvVersions": [
         {
+            "version": "1.0.6.Onion",
+            "releaseDate": "2026-05-10",
+            "mandatory": false,
+            "releaseNotes": [
+                "Added: View More Screen",
+                "Added: HomeSceen",
+                "Added: Continue Watching Row"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": ""
+        },
+        {
             "version": "1.0.5.Onion",
             "releaseDate": "2026-05-01",
             "mandatory": true,
@@ -79,6 +93,20 @@
         }
     ],
     "versions": [
+        {
+            "version": "1.3.2.Onion",
+            "releaseDate": "2026-05-10",
+            "mandatory": false,
+            "releaseNotes": [
+                "Fixed: All BottomSheet Crushes",
+                "Fixed: Minor Bugs",
+                "Added: Organised tvshows in Folders"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": ""
+        },
         {
             "version": "1.3.1.Onion",
             "releaseDate": "2026-05-01",

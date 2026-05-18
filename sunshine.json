@@ -8,7 +8,7 @@
         {
             "version": "1.0.6.Onion",
             "releaseDate": "2026-05-10",
-            "mandatory": false,
+            "mandatory": true,
             "releaseNotes": [
                 "Added: View More Screen",
                 "Added: HomeSceen",
@@ -96,7 +96,7 @@
         {
             "version": "1.3.2.Onion",
             "releaseDate": "2026-05-10",
-            "mandatory": false,
+            "mandatory": true,
             "releaseNotes": [
                 "Fixed: All BottomSheet Crushes",
                 "Fixed: Minor Bugs",

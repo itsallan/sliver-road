@@ -6,6 +6,20 @@
     "websiteUrl": "https://kawogomovies.com/",
     "tvVersions": [
         {
+            "version": "1.0.7.Onion",
+            "releaseDate": "2026-05-20",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Failing Subscription",
+                "Added: Stream Limit",
+                "Fixed: Most of the Crashes"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": ""
+        },
+        {
             "version": "1.0.6.Onion",
             "releaseDate": "2026-05-10",
             "mandatory": true,
@@ -93,6 +107,21 @@
         }
     ],
     "versions": [
+        {
+            "version": "1.3.3.Onion",
+            "releaseDate": "2026-05-20",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Failing Subscription",
+                "Fixed: InApp Streaming for Downloads",
+                "Added: Stream Limit",
+                "Fixed: Most of the Crashes"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": ""
+        },
         {
             "version": "1.3.2.Onion",
             "releaseDate": "2026-05-10",

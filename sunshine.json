@@ -5,6 +5,20 @@
     "tvApkUrl": "https://github.com/itsallan/sliver-road/raw/refs/heads/main/files/tv-release.apk",
     "websiteUrl": "https://kawogomovies.com/",
     "tvVersions": [
+                {
+            "version": "1.0.8.Onion",
+            "releaseDate": "2026-06-09",
+            "mandatory": true,
+            "releaseNotes": [
+                "Added: Playlists",
+                "Added: Stream limit increased to 5 streams",
+                "Fixed: Small Crashes"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": ""
+        },
         {
             "version": "1.0.7.Onion",
             "releaseDate": "2026-05-20",
@@ -107,6 +121,21 @@
         }
     ],
     "versions": [
+                {
+            "version": "1.3.4.Onion",
+            "releaseDate": "2026-06-09",
+            "mandatory": true,
+            "releaseNotes": [
+                "Added: Free Download",
+                "Added: Increased limit to 5 Streams ",
+                "Added: Asian content rows ",
+                "Fixed: Minor Bugs"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": "Lower versions will stop working"
+        },
         {
             "version": "1.3.3.Onion",
             "releaseDate": "2026-05-20",

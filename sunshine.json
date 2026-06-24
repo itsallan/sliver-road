@@ -134,7 +134,7 @@
             "state": "LATEST",
             "supported": true,
             "maintenance": false,
-            "maintenanceMessage": "Lower versions will stop working"
+            "maintenanceMessage": ""
         },
         {
             "version": "1.3.3.Onion",

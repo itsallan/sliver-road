@@ -6,6 +6,18 @@
     "websiteUrl": "https://kawogomovies.com/",
     "tvVersions": [
                 {
+            "version": "1.0.9.Onion",
+            "releaseDate": "2026-07-22",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Small Crashes"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": ""
+        },
+        {
             "version": "1.0.8.Onion",
             "releaseDate": "2026-06-09",
             "mandatory": true,
@@ -121,7 +133,7 @@
         }
     ],
     "versions": [
-                {
+        {
             "version": "1.3.4.Onion",
             "releaseDate": "2026-06-09",
             "mandatory": true,

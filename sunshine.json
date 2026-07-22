@@ -134,6 +134,20 @@
     ],
     "versions": [
         {
+            "version": "1.3.6.Onion",
+            "releaseDate": "2026-07-22",
+            "mandatory": true,
+            "releaseNotes": [
+                "Added: New Rows",
+                "Added: Movies Collection",
+                "Added: Search by year"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": null
+        },
+        {
             "version": "1.3.4.Onion",
             "releaseDate": "2026-06-09",
             "mandatory": true,
@@ -159,7 +173,7 @@
                 "Fixed: Most of the Crashes"
             ],
             "state": "LATEST",
-            "supported": true,
+            "supported": false,
             "maintenance": false,
             "maintenanceMessage": "Lower versions will stop working"
         },

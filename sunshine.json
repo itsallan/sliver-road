@@ -5,6 +5,19 @@
     "tvApkUrl": "https://github.com/itsallan/sliver-road/raw/refs/heads/main/files/tv-release.apk",
     "websiteUrl": "https://kawogomovies.com/",
     "tvVersions": [
+                {
+            "version": "1.1.0.Onion",
+            "releaseDate": "2026-08-11",
+            "mandatory": true,
+            "releaseNotes": [
+                "Fixed: Small Crashes",
+                "Fixed: Sign in with google"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": ""
+        },
         {
             "version": "1.0.9.Onion",
             "releaseDate": "2026-07-22",
@@ -138,8 +151,9 @@
             "releaseDate": "2026-08-11",
             "mandatory": true,
             "releaseNotes": [
+               "Added: Production Campanies(not very stable)",
+                "Added: Sign up with google",
                 "Fixed: VJ ranking",
-                "Added: Production Campanies(not very stable)",
                 "Fixed: View More For new rows"
             ],
             "state": "LATEST",

@@ -10,7 +10,7 @@
             "releaseDate": "2026-08-13",
             "mandatory": true,
             "releaseNotes": [
-                "Fixed: Streaming",
+                "Fixed: Streaming New Movies",
                 "Fixed: Disorganised Seasons and Episodes"
             ],
             "state": "LATEST",

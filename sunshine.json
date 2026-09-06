@@ -6,8 +6,8 @@
     "websiteUrl": "https://kawogomovies.com/",
     "tvVersions": [
                 {
-            "version": "1.1.1.Onion",
-            "releaseDate": "2026-08-13",
+            "version": "1.1.2.Onion",
+            "releaseDate": "2026-09-07",
             "mandatory": true,
             "releaseNotes": [
                 "Added: Sprise Me Button",

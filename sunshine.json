@@ -5,6 +5,19 @@
     "tvApkUrl": "https://bigpuhh.kawogomovies.site/tv-release.apk",
     "websiteUrl": "https://kawogomovies.com/",
     "tvVersions": [
+                {
+            "version": "1.1.1.Onion",
+            "releaseDate": "2026-08-13",
+            "mandatory": true,
+            "releaseNotes": [
+                "Added: Sprise Me Button",
+                "Added: Customisable Years Row"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": ""
+        },
         {
             "version": "1.1.1.Onion",
             "releaseDate": "2026-08-13",

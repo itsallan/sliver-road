@@ -171,7 +171,7 @@
             "state": "LATEST",
             "supported": true,
             "maintenance": false,
-            "maintenanceMessage": null
+            "maintenanceMessage": "Lower versions will not receive new content"
         },
         {
             "version": "1.3.8.Onion",

@@ -195,7 +195,7 @@
             "state": "LATEST",
             "supported": true,
             "maintenance": false,
-            "maintenanceMessage": "Lower versions will not receive new content"
+            "maintenanceMessage": ""
         },
         {
             "version": "1.4.0.Onion",

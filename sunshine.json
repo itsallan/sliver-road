@@ -185,6 +185,18 @@
         }
     ],
     "versions": [
+                {
+            "version": "1.4.1.Onion",
+            "releaseDate": "2026-09-22",
+            "mandatory": false,
+            "releaseNotes": [
+                "Fixed: Google Sign In and Sign Up"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": "Lower versions will not receive new content"
+        },
         {
             "version": "1.4.0.Onion",
             "releaseDate": "2026-09-22",

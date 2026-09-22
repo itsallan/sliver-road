@@ -1,11 +1,24 @@
 {
     "currentVersion": "1.0.1.Onion",
     "globalMaintenance": false,
-    "apkUrl": "https://bigpuhh.kawogomovies.site/app-release.apk",
-    "tvApkUrl": "https://bigpuhh.kawogomovies.site/tv-release.apk",
+    "apkUrl": "https://son.iqube.sbs/app-release.apk",
+    "tvApkUrl": "https://son.iqube.sbs/tv-release.apk",
     "websiteUrl": "https://kawogomovies.com/",
     "tvVersions": [
-                {
+        {
+            "version": "1.1.3.Onion",
+            "releaseDate": "2026-09-22",
+            "mandatory": true,
+            "releaseNotes": [
+                "Added: Qr to Pair your phone with your TV",
+                "Fixed: Bugs "
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": ""
+        },
+        {
             "version": "1.1.2.Onion",
             "releaseDate": "2026-09-07",
             "mandatory": true,
@@ -172,7 +185,22 @@
         }
     ],
     "versions": [
-            {
+        {
+            "version": "1.4.0.Onion",
+            "releaseDate": "2026-09-22",
+            "mandatory": true,
+            "releaseNotes": [
+                "Added: Scan to pair your account with your TV",
+                "Added: Tablets Support",
+                "Fixed: Slower Downloads",
+                "Fixed: Limits and Streaming issues"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": "Lower versions will not receive new content"
+        },
+        {
             "version": "1.3.9.Onion",
             "releaseDate": "2026-09-06",
             "mandatory": true,

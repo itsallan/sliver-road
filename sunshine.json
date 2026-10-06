@@ -205,17 +205,12 @@
             "mandatory": true,
             "releaseNotes": [
                 "Added: Plays more video formats that used to fail",
-                "Added: Player opens upright and rotates with your phone",
-                "Added: Light, dark and system themes with accent colours",
                 "Added: New upload badges on translators",
                 "Added: NEW and new episode tags on today's shows",
-                "Added: Downloads recover from network drops and restart themselves",
                 "Added: Choose where downloads are saved",
-                "Added: Continue with Google is now the default sign up",
                 "Fixed: Downloads stopping in the background",
                 "Fixed: Pair with TV scanning not working",
                 "Fixed: Translator lists mixing up similar names",
-                "Added: Notifications display the correct movie or tvshow when oppened"
             ],
             "state": "LATEST",
             "supported": true,

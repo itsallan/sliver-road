@@ -210,7 +210,7 @@
                 "Added: Choose where downloads are saved",
                 "Fixed: Downloads stopping in the background",
                 "Fixed: Pair with TV scanning not working",
-                "Fixed: Translator lists mixing up similar names",
+                "Fixed: Translator lists mixing up similar names"
             ],
             "state": "LATEST",
             "supported": true,

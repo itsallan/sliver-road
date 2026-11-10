@@ -6,6 +6,21 @@
     "websiteUrl": "https://kawogomovies.com/",
     "tvVersions": [
         {
+            "version": "1.1.5.Onion",
+            "releaseDate": "2026-11-10",
+            "mandatory": true,
+            "releaseNotes": [
+                "Added: Skipping damaged parts",
+                "Added: My list",
+                "Fixed: Media crash",
+                "Fixed: Buttons that wouldn't be selected"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": ""
+        },
+        {
             "version": "1.1.4.Onion",
             "releaseDate": "2026-10-06",
             "mandatory": true,
@@ -199,6 +214,22 @@
         }
     ],
     "versions": [
+        {
+            "version": "1.4.4.Onion",
+            "releaseDate": "2026-11-10",
+            "mandatory": true,
+            "releaseNotes": [
+                "Added: Track episodes watch history",
+                "Added: Content size for free accounts too",
+                "Fixed: Downloading full seasons freeze",
+                "Fixed: Skip damaged parts",
+                "Fixed: Search correction for wrong Spelling"
+            ],
+            "state": "LATEST",
+            "supported": true,
+            "maintenance": false,
+            "maintenanceMessage": ""
+        },
         {
             "version": "1.4.3.Onion",
             "releaseDate": "2026-10-06",
